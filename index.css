@@ -27,9 +27,24 @@ font-weight: 400;
 font-size: 39px;
 line-height: 24px;
 margin: 0 0 0 46px;
-/* identical to box height, or 62% */
-
-
 
 color: white;
+}
+
+.h2-text {
+ position: absolute;
+ width: 275.46px;
+ height: 8px;
+
+ top: 89px;
+
+ font-weight: 400;
+ font-size: 22.4216px;
+ line-height: 14px;
+ margin: 0 0 0 46px;
+/* or 62% */
+
+
+color: #FFFFFF;
+
 }
