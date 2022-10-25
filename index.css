@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: 'Smythe', cursive;
+    
 } 
 
 .container {
@@ -13,6 +14,22 @@ body {
     width: 600px;
     height: 400px;
     top: -153px;
-    
-    
+      
+}
+
+.h1-text {
+position: absolute;
+width: 169.28px;
+height: 24px;
+top: 46px;
+
+font-weight: 400;
+font-size: 39px;
+line-height: 24px;
+margin: 0 0 0 46px;
+/* identical to box height, or 62% */
+
+
+
+color: white;
 }
