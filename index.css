@@ -17,8 +17,7 @@ header {
     position: absolute;
     width: 600px;
     max-width: 100%;
-    height: 300px;
-    border: 1px solid;
+    height: 320px;
     background: url(images/header.jpg);
     background-size: cover;
     position: absolute;
