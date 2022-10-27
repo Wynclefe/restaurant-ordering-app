@@ -86,11 +86,20 @@ main {
     width: 70px;
 }
 
-.plus-icon {
-  
+.add-btn {
+    margin-top: 35px;
+    margin-left: 100px;
     display: flex;
-    align-items: center;
-    border: 1px solid;
-    width: fit-content;
+    justify-content: center;
+
+    /* width: 50px;
+    height: 50px;
+    left: 504px;
+    top: 242px; */
+    
+    border: 1.5px solid #DEDEDE;
+
+    
+    
 
 }
