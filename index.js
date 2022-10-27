@@ -14,10 +14,18 @@ function getMenuHtml() {
                     <p class="price">${menu.price}</p>
                     <i class="fa-solid fa-plus" data-id="${menu.id}"></i>
                 </div>
-                <div class="emoji-image>${menu.emoji}</div>
+                <div class="emoji-image">${menu.emoji}</div>
             </div>
         `
     })
 
     return menuHtml
 }
+
+console.log(getMenuHtml())
+
+function render() {
+ menuSection.innerHTML = getMenuHtml()
+}
+
+render()
