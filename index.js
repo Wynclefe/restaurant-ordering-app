@@ -18,4 +18,6 @@ function getMenuHtml() {
             </div>
         `
     })
+
+    return menuHtml
 }
