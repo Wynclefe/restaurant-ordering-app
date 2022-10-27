@@ -15,7 +15,7 @@ function getMenuHtml() {
                     <p class="ingredients">${menu.ingredients}</p>
                     <p class="price">${menu.price}</p>
                 </div>
-                <i class="fa-solid fa-plus plus-icon" data-id="${menu.id}"></i>
+                <button class="add-btn" data-id="${menu.id}">+</button>
             </div>
         `
     })
