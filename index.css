@@ -63,9 +63,34 @@ header {
 
 }
 
-.emoji-image {
-    width: 70px;
-    height: 89px;
-    top: 234px;
+main {
+    margin-top: 200px;
 }
 
+.menu-section {
+    display: flex;
+    border: 1px solid;
+}
+
+.menu-text {
+    margin-left: 20px;
+    
+}
+
+.emoji-image {
+    display: flex;
+    font-size: 80px;
+    border: 1px solid;
+    padding: 0;
+    margin: 0;
+    width: 70px;
+}
+
+.plus-icon {
+  
+    display: flex;
+    align-items: center;
+    border: 1px solid;
+    width: fit-content;
+
+}
