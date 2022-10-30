@@ -69,20 +69,16 @@ main {
 
 .menu-section {
     display: flex;
-    border: 1px solid;
 }
 
 .menu-text {
     margin-left: 20px;
-    border: 1px solid;
     width: 200px;
-    
 }
 
 .emoji-image {
     display: flex;
     font-size: 80px;
-    border: 1px solid;
     padding: 0;
     margin: 20px 0 0 46px;
     width: 70px;
