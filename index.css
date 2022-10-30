@@ -64,14 +64,17 @@ header {
 }
 
 main {
-    margin-top: 200px;
+    margin-top: 165px;
 }
 
 .menu-items {
     display: flex;
-    border-bottom: 1px solid;
-    
-    
+    border-bottom: 1px solid #D2D2D2;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0px auto 0 auto;
+    width: 560px;
+     
 }
 
 .menu-text {
@@ -83,7 +86,7 @@ main {
     display: flex;
     font-size: 80px;
     padding: 0;
-    margin: 20px 0 0 46px;
+    margin: 20px 0 0 20px;
     width: 70px;
 }
 
