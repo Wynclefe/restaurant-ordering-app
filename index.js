@@ -9,7 +9,6 @@ function getMenuHtml() {
         menuHtml += `
             <div class="menu-section">
                 <p class="emoji-image">${menu.emoji}</p>
-            <div 
                 <div class="menu-text">
                     <p class="product-name">${menu.name}</p>
                     <p class="ingredients">${menu.ingredients}</p>
