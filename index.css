@@ -90,16 +90,27 @@ main {
 
 .add-btn {
     margin-top: 35px;
-    margin-left: 100px;
+    margin-left: 170px;
     display: flex;
-    
-
-    /* width: 50px;
+    width: 50px;
     height: 50px;
     left: 504px;
-    top: 242px; */
+    top: 242px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 32px;
+    line-height: 24px;
+    /* or 75% */
+
+    
+    justify-content: center;
+    align-items: center;
+    background: #F5F5F5;
     
     border: 1.5px solid #DEDEDE;
+    border-radius: 50%;
 
 }
 
