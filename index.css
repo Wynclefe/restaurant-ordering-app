@@ -111,3 +111,12 @@ main {
     line-height: 17px;
     color: #000000;
 }
+
+.ingredients {
+    font-family: 'Smythe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8B8B8B;
+}
