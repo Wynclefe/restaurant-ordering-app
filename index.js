@@ -7,7 +7,7 @@ function getMenuHtml() {
 
     menuArray.forEach(function(menu){
         menuHtml += `
-            <div class="menu-section">
+            <div class="menu-items">
                 <p class="emoji-image">${menu.emoji}</p>
                 <div class="menu-text">
                     <p class="product-name">${menu.name}</p>
