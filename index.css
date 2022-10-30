@@ -67,8 +67,11 @@ main {
     margin-top: 200px;
 }
 
-.menu-section {
+.menu-items {
     display: flex;
+    border-bottom: 1px solid;
+    
+    
 }
 
 .menu-text {
@@ -141,3 +144,4 @@ main {
     margin-top: 8.8px;
 
 }
+
