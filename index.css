@@ -120,3 +120,13 @@ main {
     line-height: 24px;
     color: #8B8B8B;
 }
+
+.price {
+    font-family: 'Smythe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+
+}
